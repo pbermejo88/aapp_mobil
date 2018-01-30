@@ -6,6 +6,10 @@ $JSView.controller = {
     inici: function(e){
 		$JSView.dataView({},e)
 	},
+	
+	Música: function(e){
+		$JSView.dataView({},e)
+	},
     modalA: function(e){
 		$JSView.dataView({},e)	
 	}
