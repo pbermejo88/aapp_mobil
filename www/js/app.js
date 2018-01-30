@@ -10,6 +10,12 @@ window.addEventListener('load', function() {
             url: '/inici',
             template: 'views/inici.html',
             controller: 'inici'
+        },
+	    
+	     Música: {
+            url: '/Música',
+            template: 'views/Música.html',
+            controller: 'Música'
         }
     });
      
